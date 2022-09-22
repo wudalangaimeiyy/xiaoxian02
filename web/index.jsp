@@ -73,6 +73,7 @@
       <div class="login_box">
         <div class="tit">
           <h1>注册小作业会员</h1>
+		<h1>yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy</h1>
 
         </div>
         <div class="form">
