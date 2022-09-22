@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="script/jquery-1.7.2.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $(".buttonmath").click(function () {
+                var chang=Number($("#chang").text())+Number(1);
+                 // alert(chang);
+                $("#chang").text(chang);
+            })
+        })
+    </script>
+</head>
+<body>
+<h3 id="chang">1</h3>
+<button class="buttonmath">点击加一</button>
+</body>
+</html>
